@@ -1,2 +1,0 @@
-# Gitch.app
-Thanks 
